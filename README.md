@@ -2,5 +2,5 @@
 > Максимально длинный путь в матрице NxN
 
 <b>[Task 2](/Tasks/task_2/)</b>
-> C snake game. Управление w-a-s-d
+> C snake game. Терминал. Управление w-a-s-d
 
